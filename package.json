@@ -9,7 +9,6 @@
     "url": "https://github.com/aliiqbal208"
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0",
     "prettier": "^1.19.1",
     "react-scripts": "^3.4.3"
   },
@@ -24,7 +23,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
   },
   "prettier": {
     "trailingComma": "all"
